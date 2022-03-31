@@ -1,0 +1,11 @@
+{
+  "name": "math-dumb",
+  "version": "1.0.5",
+  "description": "This is a simple math nodejs package/module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sadman Sakib",
+  "license": "ISC"
+}
